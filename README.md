@@ -16,3 +16,5 @@ une calculatrice binaire qui effectue les additions,soustractions,multiplication
 -les operations devront être écrites sous la forme valeur1 opérateur valeur2 avant d'appuyer sur le bouton =
 -les valeurs sont des nombres binaires positifs
 -Non utilisation de la méthode eval dans le code car cette méthode esty considérée comme dangereuse
+disponible à:
+https://feihachim-binary-calculator.netlify.app/
