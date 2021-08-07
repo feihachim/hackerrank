@@ -7,7 +7,8 @@ https://feihachim-create-a-button.netlify.app/
 
 buttons-container:
 9 boutons numérotés de 1 à 9
-quand on clique sur le bouton 5,les valeurs des autrs boutons changent dans le sens des aiguilles d'une montre
+quand on clique sur le bouton 5,les valeurs des autrs boutons changent dans le sens des aiguilles d'une montre disponible à:
+https://feihachim-buttons-container.netlify.app/
 
 binary calculator:
 une calculatrice binaire qui effectue les additions,soustractions,multiplications et divisions avec plusieurs contraintes:
